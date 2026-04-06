@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "blog",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d9b2ba4b-e29c-45ea-ac5e-04feb03c3616",
+			"database_name": "dariuszwozniak"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
